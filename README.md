@@ -1,6 +1,6 @@
 ## About 
 
-This is a simple youtube clone created in ReactJS and React-boostrap.
+This is a simple youtube clone created with ReactJS and React-boostrap.
 
 ** 🌩 Hosting on Firebase
 
