@@ -1,7 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About 
+
+This is a simple youtube clone created in ReactJS and React-boostrap.
+
+** 🌩 Hosting on Firebase
 
 ## Available Scripts
 
+Click ⏩ [here](https://clone-sk.web.app/) to access a website
+
+📚 
 In the project directory, you can run:
 
 ### `yarn start`
